@@ -8,10 +8,10 @@ Además, voy a dejar toda información relevante al curso
 ### Editores de texto
 En este curso será necesario contar con el navegador que prefieran (Chrome, Edge, Opera, Firefox) y un editor de texto. Pueden usar el que prefieran, aca hay algunos:
 
-[Sublime Text](https://www.sublimetext.com/ "Sublime Text")__
-[Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")__
-[Notepad++](https://notepad-plus-plus.org/ "Notepad++")__
-[Brackets](http://brackets.io/ "Brackets")__
+[Sublime Text](https://www.sublimetext.com/ "Sublime Text")  
+[Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")  
+[Notepad++](https://notepad-plus-plus.org/ "Notepad++")  
+[Brackets](http://brackets.io/ "Brackets")  
 [Atom](https://atom.io/ "Atom")
 
 [Plugin Emmet](https://www.emmet.io/ "Plugin Emmet")
