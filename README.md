@@ -14,16 +14,16 @@ En este curso será necesario contar con el navegador que prefieran (Chrome, Edg
 [Brackets](http://brackets.io/ "Brackets")  
 [Atom](https://atom.io/ "Atom")
 
-[Plugin Emmet](https://www.emmet.io/ "Plugin Emmet")
+[Plugin Emmet](https://www.emmet.io/ "Plugin Emmet")  
 Este plugin añade caracteristicas a los editores que mejoran la experiencia de programar desarrollo web. En el caso de Visual Studio Code no es necesario instalarlo ya que viene por defecto.
 
-[JQuery](https://jquery.com/ "JQuery")
+[JQuery](https://jquery.com/ "JQuery")  
 La libreria JQuery se utiliza en la clase 5
 
-[Plugin LightBox](https://www.lokeshdhakar.com/projects/lightbox2/ "Plugin LightBox")
+[Plugin LightBox](https://www.lokeshdhakar.com/projects/lightbox2/ "Plugin LightBox")  
 El plugin Lightbox de JQuery se utiliza en la clase 5
 
 ### Otros vínculos
-[Educacion IT](http://www.educacionit.com "Educacion IT")
-[Alumni](http://alumni.educacionit.com "Alumni")
+[Educacion IT](http://www.educacionit.com "Educacion IT")  
+[Alumni](http://alumni.educacionit.com "Alumni")  
 [Página del Curso](https://www.educacionit.com/curso-de-javascript "Página del Curso")
